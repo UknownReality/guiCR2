@@ -235,7 +235,7 @@ guiTable.AutofarmPage.BorderColor3 = Color3.fromRGB(0, 0, 0)
 guiTable.AutofarmPage.BorderSizePixel = 0
 guiTable.AutofarmPage.Position = UDim2.new(0.32407406, 0, 0.110100701, 0)
 guiTable.AutofarmPage.Size = UDim2.new(0.66481483, 0, 0.872554302, 0)
-guiTable.AutofarmPage.Visible = false
+guiTable.AutofarmPage.Visible = true
 
 guiTable.UICorner_6.CornerRadius = UDim.new(0.0149999997, 0)
 guiTable.UICorner_6.Parent = guiTable.AutofarmPage
@@ -966,6 +966,7 @@ guiTable.WebhookPage.BorderColor3 = Color3.fromRGB(0, 0, 0)
 guiTable.WebhookPage.BorderSizePixel = 0
 guiTable.WebhookPage.Position = UDim2.new(0.32407406, 0, 0.110100701, 0)
 guiTable.WebhookPage.Size = UDim2.new(0.66481483, 0, 0.872554302, 0)
+guiTable.WebhookPage.Visible = false;
 
 guiTable.UICorner_27.CornerRadius = UDim.new(0.0149999997, 0)
 guiTable.UICorner_27.Parent = guiTable.WebhookPage
