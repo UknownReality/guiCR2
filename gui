@@ -614,7 +614,7 @@ guiTable.ToggleButton_10.TextWrapped = true
 guiTable.UICorner_16.CornerRadius = UDim.new(0.300000012, 0)
 guiTable.UICorner_16.Parent = guiTable.ToggleButton_10
 
-guiTable.LushOak.Name = "Lush guiTable.Oak"
+guiTable.LushOak.Name = "Lush Oak"
 guiTable.LushOak.Parent = guiTable.AutofarmPage
 guiTable.LushOak.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 guiTable.LushOak.BackgroundTransparency = 1.000
@@ -623,7 +623,7 @@ guiTable.LushOak.BorderSizePixel = 0
 guiTable.LushOak.Position = UDim2.new(0.526487529, 0, 0.3421202, 0)
 guiTable.LushOak.Size = UDim2.new(0.348035723, 0, 0.0724881738, 0)
 guiTable.LushOak.Font = Enum.Font.SourceSansBold
-guiTable.LushOak.Text = "Lush guiTable.Oak Tree"
+guiTable.LushOak.Text = "Lush Oak Tree"
 guiTable.LushOak.TextColor3 = Color3.fromRGB(255, 255, 255)
 guiTable.LushOak.TextScaled = true
 guiTable.LushOak.TextSize = 14.000
