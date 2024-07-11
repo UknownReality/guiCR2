@@ -366,7 +366,7 @@ guiTable.Orewood.TextSize = 14.000
 guiTable.Orewood.TextWrapped = true
 guiTable.Orewood.TextXAlignment = Enum.TextXAlignment.Left
 
-guiTable.ToggleButton_3.Name = "guiTable.ToggleButton"
+guiTable.ToggleButton_3.Name = "ToggleButton"
 guiTable.ToggleButton_3.Parent = guiTable.Orewood
 guiTable.ToggleButton_3.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
 guiTable.ToggleButton_3.BorderColor3 = Color3.fromRGB(0, 0, 0)
