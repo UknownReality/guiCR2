@@ -94,7 +94,7 @@ end
 
 --Properties:
 
-guiTable.biuegowgbwiyegw.Name = "biuegowgbwiyegw"
+--guiTable.biuegowgbwiyegw.Name = "biuegowgbwiyegw"
 guiTable.biuegowgbwiyegw.Parent = game:GetService("CoreGui")
 guiTable.biuegowgbwiyegw.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 
