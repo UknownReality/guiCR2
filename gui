@@ -94,7 +94,7 @@ end
 
 --Properties:
 
---guiTable.biuegowgbwiyegw.Name = "biuegowgbwiyegw"
+guiTable.biuegowgbwiyegw.Name = "biuegowgbwiyegw"
 guiTable.biuegowgbwiyegw.Parent = game:GetService("CoreGui")
 guiTable.biuegowgbwiyegw.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 
@@ -992,6 +992,6 @@ guiTable.TextBox_2.TextWrapped = true
 
 setmetatable(guiTable, guiMetaTable);
 
-return guiMetaTable
+return guiTable
 
 --game.Players.layer.PlayerGui.PaidAccess:Destroy()
